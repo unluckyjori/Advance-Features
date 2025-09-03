@@ -1,6 +1,8 @@
-# Advance Features
+# Advanced Features
 
-This mod takes features out of the Advance Company mod.
+This mod takes features out of the Advanced Company mod.
+
+###### Yes, I know I mispelled Advance
 
 # Features
 
@@ -8,7 +10,7 @@ This mod takes features out of the Advance Company mod.
 
 - Death spectating UI for having the screen less messy
 
-# Peformance Report UI
+# Performance Report UI
 
 ## Vanilla
 ![OldPerformanceReport](https://i.imgur.com/Wfwbsda.png)
@@ -30,7 +32,7 @@ This mod takes features out of the Advance Company mod.
 
 # Disclaimer
 
-This code is derived from the mod "Advance Company," which was released under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
+This code is derived from the mod "Advanced Company," which was released under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
 
 As such, I am permitted to copy, modify, and distribute this code freely, without any conditions.
 
@@ -45,5 +47,6 @@ For details, see https://creativecommons.org/publicdomain/zero/1.0/
 # Credit
 
 **Potatoepet**
+
 
 - Making the original features
